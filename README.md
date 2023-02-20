@@ -1,5 +1,7 @@
 # Data-Analysis-of-Customer-Service-Request-Calls
  Customer Service Requests Analysis project. Performing data analysis of service request calls. Performing Wrangling,Cleaning the data to understand the pattern in the data and visualize the major types of complaints.
+ 
+#### The main goal of this project was to analyze customer service requests data and gain insights into the major types of complaints, their frequency, and response times. By performing data wrangling and exploratory analysis, I aimed to identify patterns in the data that could help in improving customer service and identifying areas for improvement. The project also aimed to provide a better understanding of the types of complaints across different cities, helping in better resource allocation and planning. Ultimately, the goal was to improve customer satisfaction by addressing complaints more effectively and efficiently
 
 
 #### In this project, I am Performing the following steps:
