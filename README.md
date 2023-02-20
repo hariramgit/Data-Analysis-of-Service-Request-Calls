@@ -2,9 +2,9 @@
  Customer Service Requests Analysis project. Performing data analysis of service request calls. Performing Wrangling,Cleaning the data to understand the pattern in the data and visualize the major types of complaints.
 
 
-#### In this project we are Performing the following steps:
+#### In this project, I am Performing the following steps:
 
-1.Understand the dataset: 
+1. Understand the dataset: 
 - Identify the shape of the dataset
 - Identify variables with null values
 
@@ -12,7 +12,7 @@
 - Utilize missing value treatment
 - Analyze the date column and remove the entries if it has an incorrect timeline
 - Draw a frequency plot for city-wise complaints
-- Draw scatter and hexbin plots for complaint concentration across Brooklyn
+- Draw scatter and hexabin plots for complaint concentration across Brooklyn
 
 3. Find major types of complaints:
 - Plot a bar graph of count vs. complaint types
